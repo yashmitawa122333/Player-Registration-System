@@ -9,9 +9,9 @@ import java.time.LocalDate;
 
 public class PlayerRegistration extends JFrame {
     Connection connection;
-    final String jdbcUrl = "jdbc:mysql://localhost:3306/gui"; 
-    final String username = "root"; 
-    final String password = "Yash@9772"; 
+    final String jdbcUrl = ""; //Enter Your Creds
+    final String username = ""; 
+    final String password = ""; 
 
 
     // Create all TextField
